@@ -1,1 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Economica:wght@700&family=Merriweather&display=swap');
+
+#logo-navigation {
+    font-family: economica, sans-serif;
+    text-align: center;
+}
+
+/*logo and navigation*/
+
+#logo {
+    font-size: 48px;
+    text-transform: uppercase;
+}
