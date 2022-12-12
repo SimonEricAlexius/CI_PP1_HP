@@ -30,3 +30,7 @@
     display: inline-block;
     
 }
+
+p {
+    font-family: merriweather, sans-serif;
+}
