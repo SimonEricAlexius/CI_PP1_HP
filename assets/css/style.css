@@ -25,10 +25,16 @@
 /*images*/
 
 .home-image {
-    width: 30%;
-    height: 400px;
+    width: 825px;
+    height: 450px;
     display: inline-block;
-    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
 }
 
 p {
