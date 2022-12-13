@@ -20,6 +20,17 @@
 
 #navigation {
     list-style-type: none;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-top-width: 50%;
+    margin: 15px 225px;
+}
+
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    color: #3a3a3a;
+    font-size: xx-large;
 }
 
 /*images*/
@@ -30,7 +41,7 @@
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    margin-top: 15px;
 }
 
 .center {
@@ -39,4 +50,5 @@
 
 p {
     font-family: merriweather, sans-serif;
+    margin-top: 15px;
 }
