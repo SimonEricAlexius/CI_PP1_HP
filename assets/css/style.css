@@ -56,3 +56,9 @@ p {
     font-family: merriweather, sans-serif;
     margin-top: 15px;
 }
+
+/*Opening hours*/
+
+th {
+    text-align: left;
+}
