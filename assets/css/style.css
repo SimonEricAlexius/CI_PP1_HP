@@ -6,6 +6,11 @@
     border: none;
 }
 
+body {
+    margin: auto 5%;
+    padding: 32px;
+}
+
 #logo-navigation {
     font-family: economica, sans-serif;
     text-align: center;
@@ -23,7 +28,6 @@
     border-top: 3px solid black;
     border-bottom: 3px solid black;
     border-top-width: 50%;
-    margin: 15px 225px;
 }
 
 nav a {
