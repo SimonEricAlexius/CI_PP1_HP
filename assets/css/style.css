@@ -21,13 +21,13 @@ body {
 #logo {
     font-size: 48px;
     text-transform: uppercase;
+    margin: auto 40%;
 }
 
 #navigation {
     list-style-type: none;
     border-top: 3px solid black;
     border-bottom: 3px solid black;
-    border-top-width: 50%;
 }
 
 nav a {
