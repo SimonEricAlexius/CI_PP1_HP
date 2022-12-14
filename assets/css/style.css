@@ -101,6 +101,11 @@ img.left-align {
     margin-right: 10px;
 }
 
+img.right-align {
+    float: right;
+    margin-left: 10px;
+}
+
 img.menu-img {
     width: 350px;
     height: 350px;
