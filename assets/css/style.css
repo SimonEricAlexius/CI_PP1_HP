@@ -12,8 +12,11 @@ body {
 }
 
 #logo-navigation {
-    font-family: economica, sans-serif;
     text-align: center;
+}
+
+h1, h2 {
+    font-family: economica, sans-serif;
 }
 
 /*logo and navigation*/
@@ -25,6 +28,7 @@ body {
 }
 
 #navigation {
+    font-family: economica, sans-serif;
     list-style-type: none;
     border-top: 3px solid black;
     border-bottom: 3px solid black;
