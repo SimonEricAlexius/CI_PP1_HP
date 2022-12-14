@@ -86,3 +86,22 @@ th {
 #opening-hours {
     margin-top: 8%;
 }
+
+/*burger menu*/
+
+.burger-menu {
+    text-align: center;
+    color: #3a3a3a;
+    margin-top: 114px;
+    font-size: 60px;
+}
+
+img.left-align {
+    float: left;
+    margin-right: 10px;
+}
+
+img.menu-img {
+    width: 350px;
+    height: 350px;
+}
