@@ -96,6 +96,10 @@ th {
     font-size: 60px;
 }
 
+#menu-placement {
+    margin-top: 100px;
+}
+
 img.left-align {
     float: left;
     margin-right: 10px;
@@ -109,4 +113,16 @@ img.right-align {
 img.menu-img {
     width: 350px;
     height: 350px;
+}
+
+.menu1 > p {
+    float: left;
+}
+
+.menu2 > p {
+    float: right;
+}
+
+.menu3 > p {
+    float: left;
 }
