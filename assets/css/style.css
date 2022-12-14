@@ -115,30 +115,10 @@ img.menu-img {
     height: 350px;
 }
 
-.menu1 > p {
+.menu-left > p {
     float: left;
 }
 
-.menu2 > p {
+.menu-right > p {
     float: right;
-}
-
-.menu3 > p {
-    float: left;
-}
-
-.menu4 > p {
-    float: right;
-}
-
-.menu5 > p {
-    float: left;
-}
-
-.menu6 > p {
-    float: right;
-}
-
-.menu7 > p {
-    float: left;
 }
