@@ -29,6 +29,7 @@ body {
     border-top: 3px solid black;
     border-bottom: 3px solid black;
     margin-top: 15px;
+    padding: 0.5%;
 }
 
 nav a {
@@ -40,6 +41,16 @@ nav a {
 nav ul > li {
     display: inline-block;
     padding: 0 75px;
+}
+
+#navigation a:hover {
+    color: #4f2020;
+    border-bottom: 2px solid #4f2020;
+}
+
+.active {
+    color: #4f2020;
+    border-bottom: 2px solid #4f2020;
 }
 
 /*images*/
@@ -66,4 +77,8 @@ p {
 
 th {
     text-align: left;
+}
+
+#opening-hours {
+    margin-top: 8%;
 }
