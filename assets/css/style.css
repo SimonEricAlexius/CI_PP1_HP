@@ -138,3 +138,7 @@ img.menu-img {
 .menu6 > p {
     float: right;
 }
+
+.menu7 > p {
+    float: left;
+}
