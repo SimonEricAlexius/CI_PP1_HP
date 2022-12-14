@@ -21,19 +21,20 @@ body {
 #logo {
     font-size: 48px;
     text-transform: uppercase;
-    margin: auto 40%;
+    margin: auto 30%;
 }
 
 #navigation {
     list-style-type: none;
     border-top: 3px solid black;
     border-bottom: 3px solid black;
+    margin-top: 15px;
 }
 
 nav a {
     text-decoration: none;
     color: #3a3a3a;
-    font-size: xx-large;
+    font-size: xxx-large;
 }
 
 nav ul > li {
@@ -44,7 +45,7 @@ nav ul > li {
 /*images*/
 
 .home-image {
-    width: 825px;
+    width: 800px;
     height: 450px;
     display: inline-block;
     margin-left: auto;
