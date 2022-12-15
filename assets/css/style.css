@@ -15,7 +15,7 @@ body {
     text-align: center;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: economica, sans-serif;
 }
 
@@ -79,12 +79,16 @@ p {
 
 /*Opening hours*/
 
-th {
+.times th {
     text-align: left;
 }
 
 #opening-hours {
     margin-top: 8%;
+}
+
+#opening-hours h2 {
+    font-size: xxx-large;
 }
 
 /*contact*/
@@ -93,6 +97,14 @@ iframe {
     width: 60%;
 }
 
+#contact h2 {
+    font-size: xxx-large;
+    margin-top: 8%;
+}
+
+#contact h3 {
+    font-size: xx-large;
+}
 /*burger menu*/
 
 .burger-menu {
