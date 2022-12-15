@@ -87,6 +87,12 @@ th {
     margin-top: 8%;
 }
 
+/*contact*/
+
+iframe {
+    width: 60%;
+}
+
 /*burger menu*/
 
 .burger-menu {
