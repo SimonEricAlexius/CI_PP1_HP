@@ -9,6 +9,7 @@
 body {
     margin: auto 5%;
     padding: 32px;
+    font-family: merriweather, sans-serif;
 }
 
 #logo-navigation {
@@ -57,7 +58,7 @@ nav ul > li {
     border-bottom: 2px solid #4f2020;
 }
 
-/*images*/
+/*home page images and text*/
 
 .home-image {
     width: 800px;
@@ -68,16 +69,22 @@ nav ul > li {
     margin-top: 15px;
 }
 
-.center {
+#center {
     text-align: center;
 }
 
-p {
-    font-family: merriweather, sans-serif;
+.short {
     margin-top: 15px;
+    font-size: x-large;
 }
 
 /*Opening hours*/
+
+.times {
+    font-size: larger;
+    width: 15%;
+    margin-top: 15px;
+}
 
 .times th {
     text-align: left;
@@ -95,6 +102,7 @@ p {
 
 iframe {
     width: 60%;
+    margin-top: 15px;
 }
 
 #contact h2 {
@@ -103,7 +111,12 @@ iframe {
 }
 
 #contact h3 {
-    font-size: xx-large;
+    font-size: xxx-large;
+    margin-top: 15px;
+}
+
+#contact p {
+    font-size: larger;
 }
 /*burger menu*/
 
@@ -116,6 +129,10 @@ iframe {
 
 #menu-placement {
     margin-top: 100px;
+}
+
+#menu-placement p {
+    font-size: larger;
 }
 
 img.left-align {
