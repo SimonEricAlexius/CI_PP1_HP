@@ -119,6 +119,10 @@ iframe {
     font-size: larger;
 }
 
+#contact > .adress {
+    text-align: right;
+}
+
 /*burger menu*/
 
 .burger-menu {
