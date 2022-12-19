@@ -110,16 +110,16 @@ iframe {
     margin-top: 8%;
 }
 
-#contact h3 {
+#adress-map h3 {
     font-size: xxx-large;
     margin-top: 15px;
 }
 
-#contact p {
+#adress-map p {
     font-size: larger;
 }
 
-#contact > .adress {
+#adress-map > .adress {
     text-align: right;
 }
 
