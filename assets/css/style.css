@@ -110,6 +110,35 @@ nav ul > li {
     border: 2px solid #3a3a3a;
     padding: 15px;
     margin: 15px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text-input {
+    width: 90%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+form #topic {
+    width: 50%;
+    border: 1px solid;
+    padding: 8px;
+    font-size: 16px;
+}
+
+form #message {
+    width: 90%;
+    height: 150px;
+    font-size: 18px;
+    border: 1px solid;
+}
+
+form #send-message {
+    border: 1px solid;
+    padding: 5px;
 }
 
 label {
