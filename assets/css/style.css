@@ -10,6 +10,9 @@ body {
     margin: auto 5%;
     padding: 32px;
     font-family: merriweather, sans-serif;
+    background-color: #FFFFFF;
+    background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 40%, #921e1e 100%);
+
 }
 
 #logo-navigation {
@@ -127,7 +130,7 @@ nav ul > li {
     font-size: 18px;
     border: 1px solid;
     border-radius: 3px;
-    opacity: 70%;
+    opacity: 80%;
 }
 
 form #topic {
@@ -135,7 +138,7 @@ form #topic {
     border: 1px solid;
     padding: 8px;
     font-size: 20px;
-    opacity: 70%;
+    opacity: 80%;
 }
 
 form #message {
@@ -146,7 +149,7 @@ form #message {
     border: 1px solid;
     border-radius: 3px;
     resize: none;
-    opacity: 70%;
+    opacity: 80%;
 }
 
 form #send-message {
