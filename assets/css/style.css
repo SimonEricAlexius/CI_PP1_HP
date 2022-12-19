@@ -112,6 +112,13 @@ nav ul > li {
     margin: 15px;
     text-align: center;
     font-size: x-large;
+    background-image: url(../images/Gallery/guy-holds-plate.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#contact-form label {
+    margin-top: 10px;
 }
 
 .text-input {
@@ -120,24 +127,33 @@ nav ul > li {
     font-size: 18px;
     border: 1px solid;
     border-radius: 3px;
+    opacity: 70%;
 }
 
 form #topic {
     width: 50%;
     border: 1px solid;
     padding: 8px;
-    font-size: 16px;
+    font-size: 20px;
+    opacity: 70%;
 }
 
 form #message {
     width: 90%;
     height: 150px;
+    padding: 10px;
     font-size: 18px;
     border: 1px solid;
+    border-radius: 3px;
+    resize: none;
+    opacity: 70%;
 }
 
 form #send-message {
+    width: 95px;
+    font-size: 16px;
     border: 1px solid;
+    border-radius: 3px;
     padding: 5px;
 }
 
