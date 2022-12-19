@@ -100,14 +100,25 @@ nav ul > li {
 
 /*contact*/
 
+#contact {
+    font-size: xxx-large;
+    margin-top: 8%;
+}
+
+#contact-form {
+    width: 50%;
+    border: 2px solid #3a3a3a;
+    padding: 15px;
+    margin: 15px;
+}
+
+label {
+    display: block;
+}
+
 iframe {
     width: 60%;
     margin-top: 15px;
-}
-
-#contact h2 {
-    font-size: xxx-large;
-    margin-top: 8%;
 }
 
 #adress-map h3 {
