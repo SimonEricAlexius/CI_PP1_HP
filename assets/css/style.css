@@ -92,7 +92,7 @@ nav ul > li {
 
 .times {
     font-size: larger;
-    width: 15%;
+    width: 250px;
     margin-top: 15px;
 }
 
@@ -104,8 +104,20 @@ nav ul > li {
     margin-top: 8%;
 }
 
+#opening-hours p {
+    float: right;
+}
+
 #opening-hours h2 {
     font-size: xxx-large;
+}
+
+.align-left {
+    float: left;
+}
+
+.footer-home {
+    clear: both;
 }
 
 /*contact*/
@@ -276,7 +288,6 @@ img.menu-img {
 /*gallery*/
 
 #gallery-photos {
-    clear: both;
     line-height: 0;
     column-count: 3;
     column-gap: 0;
