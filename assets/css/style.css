@@ -31,6 +31,12 @@ h1, h2, h3 {
     margin: auto 30%;
 }
 
+#logo a {
+    text-decoration: none;
+    color: #e85c23;
+    text-shadow: 1px 1px 0 #000;
+}
+
 #navigation {
     font-family: economica, sans-serif;
     list-style-type: none;
