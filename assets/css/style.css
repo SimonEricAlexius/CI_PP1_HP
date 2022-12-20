@@ -281,3 +281,7 @@ img.menu-img {
     padding: 1%;
     color: #3a3a3a;
 }
+
+.menu-footer {
+    clear: both;
+}
