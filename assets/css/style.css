@@ -121,15 +121,24 @@ nav ul > li {
     clear: both;
 }
 
+/*what people say*/
+
 .align-right {
     float: right;
     margin-top: 10px;
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #ffffff18;
+    
 }
-
-/*what people say*/
 
 .opinion {
     clear: both;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 8px 10px;
+    background-color: #ffffff33;
 }
 
 aside > h2 {
