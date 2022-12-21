@@ -257,6 +257,23 @@ iframe {
     border-radius: 20px;
 }
 
+/*thank you message*/
+
+#thank-you {
+    text-align: center;
+}
+
+#thank-you h2 {
+    font-size: 78px;
+    margin-top: 75px;
+}
+
+#thank-you p {
+    font-size: x-large;
+    margin-top: 25px;
+    margin-bottom: 406px;
+}
+
 /*burger menu*/
 
 .burger-menu {
