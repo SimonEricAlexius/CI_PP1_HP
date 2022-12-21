@@ -126,6 +126,8 @@ nav ul > li {
     margin-top: 10px;
 }
 
+/*what people say*/
+
 .opinion {
     clear: both;
 }
@@ -136,12 +138,20 @@ aside > h2 {
 }
 
 .topmargin {
-    margin-top: 20px;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px 8px;
+    background-color: #6284FF;
 }
 
 .topmargin2 {
-    margin-top: 20px;
+    margin-top: 30px;
     clear: right;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px 8px;
+    background-color: #6284FF;
 }
 
 aside .opinion {
@@ -357,7 +367,7 @@ img.menu-img {
     font-size: 24px;
     margin: 3%;
     padding: 1%;
-    color: #3a3a3a;
+    color: #130f0f;
 }
 
 .menu-footer {
