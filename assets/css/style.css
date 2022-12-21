@@ -540,4 +540,8 @@ video {
     #gallery-photos {
         column-count: 1;
     }
+
+    form #topic {
+        width: 70%;
+    }
 }
