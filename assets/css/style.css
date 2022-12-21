@@ -94,6 +94,7 @@ nav ul > li {
     font-size: larger;
     width: 250px;
     margin-top: 15px;
+    clear: both;
 }
 
 .times th {
@@ -118,6 +119,19 @@ nav ul > li {
 
 .footer-home {
     clear: both;
+}
+
+.align-right {
+    float: right;
+    margin-top: 10px;
+}
+
+.opinion {
+    clear: both;
+}
+
+aside > h2 {
+    text-align: right;
 }
 
 /*contact*/
