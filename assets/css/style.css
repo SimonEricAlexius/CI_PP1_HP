@@ -451,5 +451,27 @@ video {
 
 @media screen and (max-width: 930px) {
     
+    .home-image {
+        width: 300px;
+        height: 150px;
+    }
+
+    .about-us-text p {
+        padding: 0 50px;
+        margin: 30px 0;
+    }
+
+    .about-img {
+        width: 400px;
+        height: 300;
+    }
+
+    video {
+        width: 400px;
+    }
+
+    #gallery-photos {
+        column-count: 2;
+    }
 }
 
