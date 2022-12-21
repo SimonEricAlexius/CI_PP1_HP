@@ -7,7 +7,7 @@
 }
 
 body {
-    margin: auto 8%;
+    margin: auto 7%;
     padding: 32px;
     font-family: merriweather, sans-serif;
     background-color: #FFFFFF;
@@ -458,8 +458,13 @@ video {
 
 @media screen and (max-width: 930px) {
 
+    body {
+        margin: auto 0.8%;
+        padding: 4px;
+    }
+
     .home-image {
-        width: 300px;
+        width: 290px;
         height: 150px;
     }
 
@@ -493,6 +498,7 @@ video {
 /*for small screens 620px wide and down*/
 
 @media screen and (max-width: 620px) {
+
     body {
         margin: auto 0.4%;
         padding: 2px;
