@@ -357,6 +357,10 @@ img.menu-img {
 
 /*about*/
 
+#center-about {
+    text-align: center;
+}
+
 #about-us {
     font-size: 78px;
     margin-top: 75px;
@@ -365,10 +369,20 @@ img.menu-img {
 
 .about-us-text p {
     font-size: x-large;
-    padding: 0 250px;
+    padding: 0 150px;
     margin: 50px 0;
 }
 
+.about-border {
+    margin: auto 65px;
+    border: 1px solid;
+    border-radius: 75px;
+    background-color: rgba(255, 255, 255, 0.226);
+}
+
+video {
+    margin-bottom: 35px;
+}
 /*gallery*/
 
 #gallery-photos {
