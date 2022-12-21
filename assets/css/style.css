@@ -428,8 +428,8 @@ video {
     }
 
     .home-image {
-        width: 425px;
-        height: 225px;
+        width: 434px;
+        height: 234px;
     }
 
     #logo {
@@ -440,6 +440,16 @@ video {
 /*for large/medium screens 1115px wide and down*/
 
 @media screen and (max-width: 1115px) {
+
+    body {
+        margin: auto 1%;
+        padding: 20px;
+    }
+}
+
+/*for medium screens 930px wide and down*/
+
+@media screen and (max-width: 930px) {
     
 }
 
