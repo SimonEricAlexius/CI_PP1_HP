@@ -7,7 +7,7 @@
 }
 
 body {
-    margin: auto 5%;
+    margin: auto 8%;
     padding: 32px;
     font-family: merriweather, sans-serif;
     background-color: #FFFFFF;
@@ -55,7 +55,7 @@ nav a {
 
 nav ul > li {
     display: inline-block;
-    padding: 0 75px;
+    padding: 0 65px;
 }
 
 #navigation a:hover {
@@ -71,8 +71,8 @@ nav ul > li {
 /*home page images and text*/
 
 .home-image {
-    width: 800px;
-    height: 450px;
+    width: 600px;
+    height: 350px;
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
@@ -416,3 +416,30 @@ video {
 .menu-footer {
     clear: both;
 }
+
+/*media queries*/
+
+/*for larger screens 1500px wide and down*/
+
+@media screen and (max-width: 1500px) {
+
+    nav ul > li {
+        padding: 0 35px;
+    }
+
+    .home-image {
+        width: 425px;
+        height: 225px;
+    }
+
+    #logo {
+        font-size: 38px;
+    }
+}
+
+/*for large/medium screens 1115px wide and down*/
+
+@media screen and (max-width: 1115px) {
+    
+}
+
