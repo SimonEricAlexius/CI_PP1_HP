@@ -92,13 +92,18 @@ nav ul > li {
 
 .times {
     font-size: larger;
-    width: 250px;
+    width: 400px;
     margin-top: 15px;
     clear: both;
 }
 
 .times th {
     text-align: left;
+    font-size: larger;
+}
+
+.times td {
+    font-size: larger;
 }
 
 #opening-hours {
@@ -115,6 +120,11 @@ nav ul > li {
 
 .align-left {
     float: left;
+    margin-top: 10px;
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #ffffff18;
 }
 
 .footer-home {
