@@ -308,7 +308,6 @@ iframe {
 .burger-menu {
     font-size: 78px;
     margin-top: 75px;
-    margin-bottom: 36px;
     text-align: center;
 }
 
@@ -488,5 +487,57 @@ video {
 
     #contact-form {
         width: 80%;
+    }
+}
+
+/*for small screens 620px wide and down*/
+
+@media screen and (max-width: 620px) {
+    body {
+        margin: auto 0.4%;
+        padding: 2px;
+    }
+
+    #logo {
+        font-size: 18px;
+    }
+
+    #opening-hours h2 {
+        font-size: 48px;
+    }
+
+    .times {
+        font-size: medium;
+        width: 250px;
+    }
+
+    .about-img {
+        width: 250px;
+        height: 175px;
+    }
+
+    video {
+        width: 250px;
+    }
+
+    .about-border {
+        margin: auto 15px;
+    }
+
+    .about-us-text p {
+        font-size: large;
+        padding: 0 25px;
+    }
+
+    .burger-menu {
+        font-size: 58px;
+    }
+
+    #menu-placement {
+        margin-top: 50px;
+    }
+    
+    #gallery-photos {
+        column-count: 1;
     }
 }
