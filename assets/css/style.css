@@ -435,6 +435,10 @@ video {
     #logo {
         font-size: 38px;
     }
+
+    #contact-form {
+        width: 70%;
+    }
 }
 
 /*for large/medium screens 1115px wide and down*/
@@ -445,12 +449,16 @@ video {
         margin: auto 1%;
         padding: 20px;
     }
+
+    #contact-form {
+        width: 70%;
+    }
 }
 
 /*for medium screens 930px wide and down*/
 
 @media screen and (max-width: 930px) {
-    
+
     .home-image {
         width: 300px;
         height: 150px;
@@ -461,9 +469,13 @@ video {
         margin: 30px 0;
     }
 
+    .about-border {
+        margin: auto 35px;
+    }
+
     .about-img {
         width: 400px;
-        height: 300;
+        height: 265px;
     }
 
     video {
@@ -473,5 +485,8 @@ video {
     #gallery-photos {
         column-count: 2;
     }
-}
 
+    #contact-form {
+        width: 80%;
+    }
+}
