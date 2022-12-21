@@ -331,18 +331,28 @@ img.right-align {
 }
 
 img.menu-img {
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    border-radius: 88px;
 }
 
 .menu-left > p {
     float: left;
     margin-top: 25px;
+    border: 1px solid;
+    padding: 10px 25px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.315);
 }
 
 .menu-right > p {
     float: right;
     margin-top: 25px;
+    border: 1px solid;
+    padding: 10px 25px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.315);
 }
 
 /*about*/
