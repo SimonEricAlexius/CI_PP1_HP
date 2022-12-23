@@ -379,8 +379,10 @@ img.menu-img {
     background-color: rgba(255, 255, 255, 0.226);
 }
 
-video {
+.video {
     margin-bottom: 35px;
+    width: 700px;
+    height: 394px;
 }
 /*gallery*/
 
@@ -482,8 +484,9 @@ video {
         height: 265px;
     }
 
-    video {
+    .video {
         width: 400px;
+        height: 225px;
     }
 
     #gallery-photos {
@@ -522,8 +525,9 @@ video {
         height: 175px;
     }
 
-    video {
+    .video {
         width: 250px;
+        height: 141px;
     }
 
     .about-border {
