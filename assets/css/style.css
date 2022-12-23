@@ -269,16 +269,16 @@ iframe {
 }
 
 #adress-map h3 {
-    font-size: xxx-large;
+    font-size: 78px;
     margin-top: 15px;
 }
 
 #adress-map p {
-    font-size: larger;
+    font-size: x-large;
 }
 
 #adress-map > .adress {
-    text-align: right;
+    text-align: center;
 }
 
 .map {
