@@ -420,7 +420,30 @@ img.menu-img {
 
 /*404 error*/
 
+#error-404 {
+    text-align: center;
+    margin: 50px 20%;
+    padding: 40px;
+    border: 1px solid;
+    border-radius: 75px;
+    background-color: rgba(255, 255, 255, 0.226);
+}
 
+.text-404 {
+    font-size: 150px;
+}
+
+.home-404 {
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    background-color: #921e1ed5;
+}
+
+.home-404:hover {
+    background-color: #921e1e96;
+}
 
 /*media queries*/
 
