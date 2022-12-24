@@ -525,6 +525,10 @@ img.menu-img {
     #contact-form {
         width: 80%;
     }
+
+    .text-404 {
+        font-size: 45px;
+    }
 }
 
 /*for small screens 620px wide and down*/
@@ -582,5 +586,13 @@ img.menu-img {
 
     form #topic {
         width: 70%;
+    }
+
+    .text-404 {
+        font-size: 35px;
+    }
+
+    #error-404 {
+        margin: 50px 10%;
     }
 }
