@@ -430,7 +430,9 @@ img.menu-img {
 }
 
 .text-404 {
-    font-size: 150px;
+    font-size: 75px;
+    text-transform: uppercase;
+    margin-bottom: 35px;
 }
 
 .home-404 {
@@ -438,11 +440,11 @@ img.menu-img {
     border-radius: 25px;
     padding: 10px;
     color: rgb(255, 255, 255);
-    background-color: #921e1ed5;
+    background-color: #e843078c;
 }
 
 .home-404:hover {
-    background-color: #921e1e96;
+    background-color: #921e1ed5;
 }
 
 /*media queries*/
