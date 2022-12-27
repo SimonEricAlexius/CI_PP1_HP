@@ -116,3 +116,13 @@ The website was made to easy navigate around the five pages of the website with 
 - Balsamiq
 - Google Fonts
 - Eye Dropper
+
+## Features
+
+### Logo and Navigaton Bar
+- Logo and navigation are the same on all pages
+- Logo also works as a link to the home page
+- The navigation bar consist of Home, Menu, About, Gallery and Contact
+- When you hover the navigation, the colour changes and when the page is active the same colour stays
+
+![logo-and-navigation](./docs/features/logo-navigation.png)
