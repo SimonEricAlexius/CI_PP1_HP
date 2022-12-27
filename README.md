@@ -36,3 +36,17 @@
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+
+## Project Goals
+
+### User Goals
+- Find a great hamburger restaurant
+- Find opening hours to know when they can come and buy food
+- Find adress to location of the restaurant
+- Be able to see what is on the menu
+- Find a way to contact the restaurant
+
+### Site Owner Goals
+- Give users a way to find the restaurant
+- To increase the restaurant revenue
+- 
