@@ -77,3 +77,12 @@
 - How to contact the restaurant with feedback
 - What is the restaurants history and future goals
 - Can I find the restaurant on social media
+
+## Design
+
+### Design Choices
+The design was made to easy understand what the website is about and for easy navigation without difficulty for users to find what they are looking for.
+
+### Colour
+The background colour was chosen as a good fit for the yellow and brown colours in hamburgers and fries. The logo colour was chosen orange as it is the main colour in the restaurant.
+
