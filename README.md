@@ -12,7 +12,7 @@
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
@@ -52,3 +52,28 @@
 - Give users a menu with what hamburgers they can buy
 - Give users a way of contacting the restaurant
 - Give users a history and goal of the restaurant
+
+## User Experience
+
+### Target Audience
+- Users that are looking for a good meal
+- Users that want to get in touch with the restaurant
+- Users that want to know when the restaurant is open
+- Users that want to know more about the restaurant
+
+### User Requirements and Expectations
+- Easy navigation on the website
+- Easy to find what is on the menu
+- Easy and multiple ways to contact the restaurant
+
+### User Stories
+#### First Time Users
+- What time is the restaurant open
+- Where is the restaurant located
+- What is on the menu
+- What do other people say about the restaurant
+
+#### Returning Users
+- How to contact the restaurant with feedback
+- What is the restaurants history and future goals
+- Can I find the restaurant on social media
