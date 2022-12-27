@@ -16,7 +16,7 @@
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Colours](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
@@ -83,6 +83,12 @@
 ### Design Choices
 The design was made to easy understand what the website is about and for easy navigation without difficulty for users to find what they are looking for.
 
-### Colour
+### Colours
 The background colour was chosen as a good fit for the yellow and brown colours in hamburgers and fries. The logo colour was chosen orange as it is the main colour in the restaurant.
+
+### Fonts
+The logo, navigation bar and the headings have the font of Economica, whilst the body have the font of Merriweather.
+
+### Structure
+The website was made to easy navigate around the five pages of the website with the logo to take you back to the home page if the users wish. They will find a menu, information about the restaurant, a gallery and a way to contact the restaruanat.
 
