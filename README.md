@@ -98,3 +98,21 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>About</summary><img src="./docs/wireframes/wireframe-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/wireframes/wireframe-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/wireframes/wireframe-contact.png"></details>
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+
+- Git
+- Github
+- Gitpod
+- cssgradient.io
+- Font Awesome
+- favicon.io
+- Balsamiq
+- Google Fonts
+- Eye Dropper
