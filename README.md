@@ -47,6 +47,8 @@
 - Find a way to contact the restaurant
 
 ### Site Owner Goals
-- Give users a way to find the restaurant
+- Give potential customers a way to find the restaurant
 - To increase the restaurant revenue
-- 
+- Give users a menu with what hamburgers they can buy
+- Give users a way of contacting the restaurant
+- Give users a history and goal of the restaurant
