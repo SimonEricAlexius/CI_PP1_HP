@@ -1,7 +1,7 @@
 # Hamburger Palace
 (Developer: Simon Samuelsson)
 
-![Mockup image]()
+![Mockup image](./docs/am-i-responsive-mockup.png)
 
 [Live webpage](https://simonericalexius.github.io/Project-Portfolio-1.1/index.html)
 
