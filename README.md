@@ -157,3 +157,10 @@ The website was made to easy navigate around the five pages of the website with 
 - Information about what is on the burgers
 
 ![menu](./docs/features/menu.png)
+
+### About
+- The about us page have two images, one with the food truck before the restaurant opened and one image in the kitchen after the restaurant opened
+- Information about why they started their business, where they are today and what their future goals are
+- One video where they make a burger in the restaurant kitchen
+
+![about](./docs/features/about.png)
