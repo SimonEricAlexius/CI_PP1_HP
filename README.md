@@ -135,3 +135,8 @@ The website was made to easy navigate around the five pages of the website with 
 - Short text with information about the restaurants hamburgers and why people come there to eat
 
 ![first-glance](./docs/features/first-glance.png)
+
+### Opening Hours
+- Shows at what times the restaurant is open monday to friday, saturday and sunday
+
+![opening-hours](./docs/features/opening-hours.png)
