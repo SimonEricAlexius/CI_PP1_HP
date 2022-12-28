@@ -147,7 +147,13 @@ The website was made to easy navigate around the five pages of the website with 
 
 ![user-feedback](./docs/features/user-feedback.png)
 
-### footer
+### Footer
 - The footer contains of six social media links, Facebook, Instagram, Twitter, Youtube, Tiktok and Pinterest
 
 ![footer](./docs/features/footer.png)
+
+### Menu
+- The menu have images of the restaurants burgers
+- Information about what is on the burgers
+
+![menu](./docs/features/menu.png)
