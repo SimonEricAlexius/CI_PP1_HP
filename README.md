@@ -184,3 +184,15 @@ The website was made to easy navigate around the five pages of the website with 
 - To easier find where the restaurant is located a google map is embeded
 
 ![adress-map](./docs/features/adress-map.png)
+
+## Testing
+
+### HTML Validation
+
+[W3C Markup Validation Service](https://validator.w3.org/) is used for validation
+
+<details><summary>Home</summary><img src="./docs/testing/html-validation-index.png"></details>
+<details><summary>Menu</summary><img src="./docs/testing/html-validation-menu.png"></details>
+<details><summary>About</summary><img src="./docs/testing/html-validation-about.png"></details>
+<details><summary>Gallery</summary><img src="./docs/testing/html-validation-gallery.png"></details>
+<details><summary>Contact</summary><img src="./docs/testing/html-validation-contact.png"></details>
