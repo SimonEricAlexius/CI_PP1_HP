@@ -126,3 +126,10 @@ The website was made to easy navigate around the five pages of the website with 
 - When you hover the navigation, the colour changes and when the page is active the same colour stays
 
 ![logo-and-navigation](./docs/features/logo-navigation.png)
+
+### First Glance Information
+- One image with hamburger patties on the grill
+- One image with a ready to eat hamburger and fries
+- Short text with information about the restaurants hamburgers and why people come there to eat
+
+![first-glance](./docs/features/first-glance.png)
