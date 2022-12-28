@@ -140,3 +140,14 @@ The website was made to easy navigate around the five pages of the website with 
 - Shows at what times the restaurant is open monday to friday, saturday and sunday
 
 ![opening-hours](./docs/features/opening-hours.png)
+
+### User Feedback
+- Shows what previous customers have to say about the restaurant
+- Shows the customer name and where they are from
+
+![user-feedback](./docs/features/user-feedback.png)
+
+### footer
+- The footer contains of six social media links, Facebook, Instagram, Twitter, Youtube, Tiktok and Pinterest
+
+![footer](./docs/features/footer.png)
