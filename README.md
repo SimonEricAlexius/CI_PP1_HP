@@ -169,3 +169,11 @@ The website was made to easy navigate around the five pages of the website with 
 - The gallery contains of 17 images with various hamburgers and staff members
 
 ![gallery](./docs/features/gallery-images.png)
+
+### Contact Form
+- The contact form contains of two text entries, name and message
+- The contact form contains of one email entrie
+- The contact form conatins of one dropdown menu to choose topic of message
+- All entries need to be filled or user won't be able to send
+
+![contact-form](./docs/features/contact-form.png)
