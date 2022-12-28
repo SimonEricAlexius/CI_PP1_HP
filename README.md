@@ -174,6 +174,13 @@ The website was made to easy navigate around the five pages of the website with 
 - The contact form contains of two text entries, name and message
 - The contact form contains of one email entrie
 - The contact form conatins of one dropdown menu to choose topic of message
-- All entries need to be filled or user won't be able to send
+- All entries need to be filled or user won't be able to send their message
 
 ![contact-form](./docs/features/contact-form.png)
+
+### Adress and Phone Number
+- Just below the contact form on the contact page, the adress for the restaurant can be found
+- A phone number to the restaurant is listed under the adress
+- To easier find where the restaurant is located a google map is embeded
+
+![adress-map](./docs/features/adress-map.png)
