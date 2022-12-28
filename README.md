@@ -164,3 +164,8 @@ The website was made to easy navigate around the five pages of the website with 
 - One video where they make a burger in the restaurant kitchen
 
 ![about](./docs/features/about.png)
+
+### Gallery
+- The gallery contains of 17 images with various hamburgers and staff members
+
+![gallery](./docs/features/gallery-images.png)
