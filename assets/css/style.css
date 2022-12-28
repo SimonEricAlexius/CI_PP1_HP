@@ -424,7 +424,7 @@ iframe {
 
 #error-404 {
     text-align: center;
-    margin: 50px 20%;
+    margin: 50px 20% 275px;
     padding: 40px;
     border: 1px solid;
     border-radius: 75px;
@@ -595,6 +595,6 @@ iframe {
     }
 
     #error-404 {
-        margin: 50px 10%;
+        margin: 50px 10% 200px;
     }
 }
