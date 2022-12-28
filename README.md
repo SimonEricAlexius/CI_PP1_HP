@@ -115,6 +115,8 @@ The website was made to easy navigate around the five pages of the website with 
 - favicon.io
 - Balsamiq
 - Google Fonts
+- Google Maps
+- bit.ly
 - Eye Dropper
 
 ## Features
