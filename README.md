@@ -283,3 +283,8 @@ The website has been tested in these browser
     4. Click on save
 
 The live link https://simonericalexius.github.io/Project-Portfolio-1.1/
+
+## Credits
+### Media
+- Every image used on the website is from [pexels.com](https://www.pexels.com/), picked among the free stock photos
+- YouTube video on about page is borrowed from the YouTube channel [Certified Angus Beef brand Test Kitchen](https://www.youtube.com/@CertifiedAngusBeefLL)
