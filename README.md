@@ -188,7 +188,6 @@ The website was made to easy navigate around the five pages of the website with 
 ## Testing
 
 ### HTML Validation
-
 [W3C Markup Validation Service](https://validator.w3.org/) is used for validation
 
 <details><summary>Home</summary><img src="./docs/testing/html-validation-index.png"></details>
@@ -198,7 +197,6 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>Contact</summary><img src="./docs/testing/html-validation-contact.png"></details>
 
 ### CSS Validation
-
 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) is used for validation
 
 <details><summary>CSS</summary><img src="./docs/testing/css-validation.png"></details>
