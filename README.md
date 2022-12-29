@@ -30,7 +30,7 @@
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
     5. [Device Testing](#device-testing)
-    6. [Browser Compatibility](#browser-compatability)
+    6. [Browser Compatibility](#browser-compatibility)
     7. [Testing User Stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
