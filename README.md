@@ -22,9 +22,9 @@
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks & Tools](#frameworks-and-tools)
 5. [Features](#features)
-6. [Testing](#validation)
+6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
@@ -105,7 +105,7 @@ The website was made to easy navigate around the five pages of the website with 
 - HTML
 - CSS
 
-### Frameworks & Tools
+### Frameworks and Tools
 
 - Git
 - Github
@@ -196,3 +196,9 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>About</summary><img src="./docs/testing/html-validation-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/testing/html-validation-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/testing/html-validation-contact.png"></details>
+
+### CSS Validation
+
+[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) is used for validation
+
+<details><summary>CSS</summary><img src="./docs/testing/css-validation.png"></details>
