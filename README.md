@@ -239,36 +239,36 @@ The website has been tested in these browser
 ### Testing User Stories
 #### First Time Users
 - What time is the restaurant open
-1. Go to home page
-2. Scroll down
+    1. Go to home page
+    2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-opened.png"></details>
 
 - Where is the restaurant located
-1. Go to contact
-2. Scroll down
+    1. Go to contact
+    2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-location.png"></details>
 
 - What is on the menu
-1. Go to menu
+    1. Go to menu
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-menu.png"></details>
 
 - What do other people say about the restaurant
-1. Go to home page
-2. Scroll down
+    1. Go to home page
+    2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-customer-reviews.png"></details>
 
 #### Returning Users
 - How to contact the restaurant with feedback
-1. Go to contact
+    1. Go to contact
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-contact-form.png"></details>
 
 - What is the restaurants history and future goals
-1. Go to about
+    1. Go to about
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-about.png"></details>
 
 - Can I find the restaurant on social media
-1. Go to any of the navigation pages
-2. Scroll down to bottom
+    1. Go to any of the navigation pages
+    2. Scroll down to bottom
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-socials.png"></details>
 
 ## Bugs
@@ -281,5 +281,5 @@ The website has been tested in these browser
     2. Locate the Pages tab in the navigation side bar on the left
     3. Below Branch there is a dropdown menu, click and choose main
     4. Click on save
-    
+
 The live link https://simonericalexius.github.io/Project-Portfolio-1.1/
