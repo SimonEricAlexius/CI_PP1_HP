@@ -270,3 +270,7 @@ The website has been tested in these browser
 1. Go to any of the navigation pages
 2. Scroll down to bottom
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-socials.png"></details>
+
+## Bugs
+ - The text next to some of the hamburger images on the menu doesn't line up as intent on some devices
+ <details><summary>Screenshot</summary><img src="./docs/bug.png"></details>
