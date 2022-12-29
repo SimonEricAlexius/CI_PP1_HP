@@ -288,3 +288,7 @@ The live link https://simonericalexius.github.io/Project-Portfolio-1.1/
 ### Media
 - Every image used on the website is from [pexels.com](https://www.pexels.com/), picked among the free stock photos
 - YouTube video on about page is borrowed from the YouTube channel [Certified Angus Beef brand Test Kitchen](https://www.youtube.com/@CertifiedAngusBeefLL)
+
+### Code
+- The gradient background was taken at [cssgradient.io](https://cssgradient.io/gradient-backgrounds/)
+- The gallery is from [Code Institute](https://codeinstitute.net/se/) [Love Running project](https://github.com/SimonEricAlexius/love-running/blob/main/gallery.html)
