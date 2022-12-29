@@ -209,3 +209,12 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>About</summary><img src="./docs/testing/accessibility-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/testing/accessibility-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/testing/accessibility-contact.png"></details>
+
+### Performance
+[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used with Chrome DevTools for performance testing
+
+<details><summary>Home</summary><img src="./docs/testing/performance-home.png"></details>
+<details><summary>Menu</summary><img src="./docs/testing/performance-menu.png"></details>
+<details><summary>About</summary><img src="./docs/testing/performance-about.png"></details>
+<details><summary>Gallery</summary><img src="./docs/testing/performance-gallery.png"></details>
+<details><summary>Contact</summary><img src="./docs/testing/performance-contact.png"></details>
