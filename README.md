@@ -29,9 +29,9 @@
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
+    5. [Device Testing](#device-testing)
+    6. [Browser Compatibility](#browser-compatability)
+    7. [Testing User Stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -211,10 +211,27 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>Contact</summary><img src="./docs/testing/accessibility-contact.png"></details>
 
 ### Performance
-[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used with Chrome DevTools for performance testing
+[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used in Chrome DevTools for performance testing
 
 <details><summary>Home</summary><img src="./docs/testing/performance-home.png"></details>
 <details><summary>Menu</summary><img src="./docs/testing/performance-menu.png"></details>
 <details><summary>About</summary><img src="./docs/testing/performance-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/testing/performance-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/testing/performance-contact.png"></details>
+
+### Device Testing
+The website has been tested on these devices
+- Sony Xperia 1 III
+- Apple iPad 7th Generation
+- iPhone SE 2nd Generation
+- Samsung Galaxy S20 Ultra
+- Samsung Galaxy Note 9
+- Asus ROG Phone 2
+
+### Browser Compatibility
+The website has been tested in these browser
+- Google Chrome
+- Microsoft Edge
+- Firefox
+- Opera
+- Brave
