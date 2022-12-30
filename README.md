@@ -199,6 +199,12 @@ The website was made to easy navigate around the five pages of the website with 
 
 ![adress-map](./docs/features/adress-map.png)
 
+### 404 Page Not Found
+- A 404 page not found is shown when website can't find page
+- Return to home button is available to easily navigate back
+
+![404-page](./docs/features/404.not-found.png)
+
 ## Testing
 
 ### HTML Validation
