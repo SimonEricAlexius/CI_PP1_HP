@@ -275,8 +275,18 @@ The website has been tested in these browser
  - The text next to some of the hamburger images on the menu doesn't line up as intent on some devices
  <details><summary>Screenshot</summary><img src="./docs/bug.png"></details>
 
- ## Deployment
- - The website was deployed using GitHub pages by doing
+### Fixed bug
+[Commit](https://github.com/SimonEricAlexius/Project-Portfolio-1.1/commit/e1cd9da7da3c7949d5693d90906d5024baf8da28)
+```
+width: 280px;
+height: 280px;
+padding: 10px 45px;
+float: left;
+```
+<details><summary>Screenshot</summary><img src="./docs/bug-fixed.png"></details>
+
+## Deployment
+- The website was deployed using GitHub pages by doing
     1. From GitHub repository go to the settings tab
     2. Locate the Pages tab in the navigation side bar on the left
     3. Below Branch there is a dropdown menu, click and choose main
