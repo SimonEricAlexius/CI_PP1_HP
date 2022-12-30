@@ -81,7 +81,7 @@
 #### Site Owner
 8. Customers to be able to find when the restaurant is open
 9. Customers to be able to find the location of the restaurant
-10. Customer to be able to know what's on the menu
+10. Customers to be able to know what's on the menu
 11. Customers to be able to contact the restaurant
 
 ## Design
@@ -284,6 +284,25 @@ The website has been tested in these browser
     1. Go to any of the navigation pages
     2. Scroll down to bottom
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-socials.png"></details>
+
+#### Site Owner
+- Customers to be able to find when the restaurant is open
+    1. Go to home page
+    2. Scroll down
+<details><summary>Screenshot</summary><img src="./docs/testing/user-stories-opened.png"></details>
+
+- Customers to be able to find the location of the restaurant
+    1. Go to contact
+    2. Scroll down
+<details><summary>Screenshot</summary><img src="./docs/testing/user-stories-location.png"></details>
+
+- Customers to be able to know what's on the menu
+    1. Go to menu
+<details><summary>Screenshot</summary><img src="./docs/testing/user-stories-menu.png"></details>
+
+- Customers to be able to contact the restaurant
+    1. Go to contact
+<details><summary>Screenshot</summary><img src="./docs/testing/user-stories-contact-form.png"></details>
 
 ## Bugs
  - The text next to some of the hamburger images on the menu doesn't line up as intent on some devices
