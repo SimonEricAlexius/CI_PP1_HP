@@ -99,11 +99,11 @@ The logo, navigation bar and the headings have the font of Economica, whilst the
 The website was made to easy navigate around the five pages of the website with the logo to take you back to the home page if the users wish. They will find a menu, information about the restaurant, a gallery and a way to contact the restaruanat.
 
 ## Wireframes
-<details><summary>Home</summary><img src="./docs/wireframes/wireframe-home.png"></details>
-<details><summary>Menu</summary><img src="./docs/wireframes/wireframe-menu.png"></details>
-<details><summary>About</summary><img src="./docs/wireframes/wireframe-about.png"></details>
-<details><summary>Gallery</summary><img src="./docs/wireframes/wireframe-gallery.png"></details>
-<details><summary>Contact</summary><img src="./docs/wireframes/wireframe-contact.png"></details>
+<details><summary>Home</summary><img src="./docs/wireframes/wireframes-home.png"></details>
+<details><summary>Menu</summary><img src="./docs/wireframes/wireframes-menu.png"></details>
+<details><summary>About</summary><img src="./docs/wireframes/wireframes-about.png"></details>
+<details><summary>Gallery</summary><img src="./docs/wireframes/wireframes-gallery.png"></details>
+<details><summary>Contact</summary><img src="./docs/wireframes/wireframes-contact.png"></details>
 
 ## Technologies Used
 
