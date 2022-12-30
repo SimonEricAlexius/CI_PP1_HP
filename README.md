@@ -68,15 +68,21 @@
 
 ### User Stories
 #### First Time Users
-- What time is the restaurant open
-- Where is the restaurant located
-- What is on the menu
-- What do other people say about the restaurant
+1. What time is the restaurant open
+2. Where is the restaurant located
+3. What is on the menu
+4. What do other people say about the restaurant
 
 #### Returning Users
-- How to contact the restaurant with feedback
-- What is the restaurants history and future goals
-- Can I find the restaurant on social media
+5. How to contact the restaurant with feedback
+6. What is the restaurants history and future goals
+7. Can I find the restaurant on social media
+
+#### Site Owner
+8. Customers to be able to find when the restaurant is open
+9. Customers to be able to find the location of the restaurant
+10. Customer to be able to know what's on the menu
+11. Customers to be able to contact the restaurant
 
 ## Design
 
