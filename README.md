@@ -104,6 +104,7 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>About</summary><img src="./docs/wireframes/wireframes-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/wireframes/wireframes-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/wireframes/wireframes-contact.png"></details>
+<details><summary>404</summary><img src="./docs/wireframes/wireframes-404.png"></details>
 
 ## Technologies Used
 
