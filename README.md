@@ -292,3 +292,11 @@ The live link https://simonericalexius.github.io/Project-Portfolio-1.1/
 ### Code
 - The gradient background was taken at [cssgradient.io](https://cssgradient.io/gradient-backgrounds/)
 - The gallery is from [Code Institute](https://codeinstitute.net/se/) [Love Running project](https://github.com/SimonEricAlexius/love-running/blob/main/gallery.html)
+
+## Acknowledgements
+- The book [HTML & CSS: Design and Build Websites](https://www.goodreads.com/book/show/10361330-html-and-css) by [Jon Duckett](https://www.goodreads.com/author/show/135171.Jon_Duckett) was helpful sometimes, it also inspired the home page design (page 323)
+- Just as the previous mentioned book was helpful sometimes, the website [w3schools.com](https://www.w3schools.com/) was a great asset, especially for me to understand margins and paddings
+- The guy over on Tutor Assistance at Code Institute that helped me with what to put as action in the contact form, I was trying to figure it out for days
+- My family who kept pushing that I can make this happen, since I have bad anxiety and zero self esteem
+- The GitHub user 4n4ru and her perfectly made [readme.md](https://github.com/4n4ru/CI_MS1_BodelschwingherHof/blob/master/README.md) file, whithout it as a template I don't think I would've been able to put a readme.md file together
+- Also not to forget my mentor Mo Shami that got me to actually start working on the project and helped me on the way
