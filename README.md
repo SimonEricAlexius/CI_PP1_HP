@@ -145,23 +145,27 @@ The website was made to easy navigate around the five pages of the website with 
 
 ### Opening Hours
 - Shows at what times the restaurant is open monday to friday, saturday and sunday
+- User stories: 1, 8
 
 ![opening-hours](./docs/features/opening-hours.png)
 
 ### User Feedback
 - Shows what previous customers have to say about the restaurant
 - Shows the customer name and where they are from
+- User stories: 4
 
 ![user-feedback](./docs/features/user-feedback.png)
 
 ### Footer
 - The footer contains of six social media links, Facebook, Instagram, Twitter, Youtube, Tiktok and Pinterest
+- User stories: 7
 
 ![footer](./docs/features/footer.png)
 
 ### Menu
 - The menu have images of the restaurants burgers
 - Information about what is on the burgers
+- User stories: 3, 10
 
 ![menu](./docs/features/menu.png)
 
@@ -169,6 +173,7 @@ The website was made to easy navigate around the five pages of the website with 
 - The about us page have two images, one with the food truck before the restaurant opened and one image in the kitchen after the restaurant opened
 - Information about why they started their business, where they are today and what their future goals are
 - One video where they make a burger in the restaurant kitchen
+- User stories: 6
 
 ![about](./docs/features/about.png)
 
@@ -182,6 +187,7 @@ The website was made to easy navigate around the five pages of the website with 
 - The contact form contains of one email entrie
 - The contact form conatins of one dropdown menu to choose topic of message
 - All entries need to be filled or user won't be able to send their message
+- User stories: 5, 11
 
 ![contact-form](./docs/features/contact-form.png)
 
@@ -189,6 +195,7 @@ The website was made to easy navigate around the five pages of the website with 
 - Just below the contact form on the contact page, the adress for the restaurant can be found
 - A phone number to the restaurant is listed under the adress
 - To easier find where the restaurant is located a google map is embeded
+- User stories: 2, 9
 
 ![adress-map](./docs/features/adress-map.png)
 
