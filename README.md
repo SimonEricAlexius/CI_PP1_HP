@@ -3,7 +3,7 @@
 
 ![Mockup image](./docs/am-i-responsive-mockup.png)
 
-[Live webpage](https://simonericalexius.github.io/Project-Portfolio-1.1/index.html)
+[Live webpage](https://simonericalexius.github.io/CI_PP1_HP/)
 
 ## Table of Content
 
@@ -292,7 +292,7 @@ float: left;
     3. Below Branch there is a dropdown menu, click and choose main
     4. Click on save
 
-The live link https://simonericalexius.github.io/Project-Portfolio-1.1/
+The live link https://simonericalexius.github.io/CI_PP1_HP/
 
 ## Credits
 ### Media
