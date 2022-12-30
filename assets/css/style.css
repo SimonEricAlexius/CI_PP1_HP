@@ -205,8 +205,8 @@ img.right-align {
 }
 
 img.menu-img {
-    width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     border: 1px solid;
     border-radius: 88px;
 }
@@ -215,7 +215,7 @@ img.menu-img {
     float: left;
     margin-top: 25px;
     border: 1px solid;
-    padding: 10px 25px;
+    padding: 10px 45px;
     border-radius: 25px;
     background-color: rgba(255, 255, 255, 0.315);
 }
@@ -224,7 +224,7 @@ img.menu-img {
     float: right;
     margin-top: 25px;
     border: 1px solid;
-    padding: 10px 25px;
+    padding: 10px 45px;
     border-radius: 25px;
     background-color: rgba(255, 255, 255, 0.315);
 }
@@ -553,6 +553,14 @@ iframe {
     .times {
         font-size: medium;
         width: 250px;
+    }
+
+    img.right-align {
+        float: left;
+    }
+
+    .menu-right > p {
+        float: left;
     }
 
     .about-img {
