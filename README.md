@@ -128,7 +128,7 @@ The website was made to easy navigate around the five pages of the website with 
 - Eye Dropper
 
 ## Features
-The website contains of five pages and 12 features
+The website contains of five pages and twelve features
 
 ### Logo and Navigaton Bar
 - Logo and navigation are the same on all pages
