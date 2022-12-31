@@ -208,7 +208,7 @@ The website was made to easy navigate around the five pages of the website with 
 ## Testing
 
 ### HTML Validation
-[W3C Markup Validation Service](https://validator.w3.org/) is used for HTML validation
+[W3C Markup Validation Service](https://validator.w3.org/) is used for HTML validation, no errors was shown
 
 <details><summary>Home</summary><img src="./docs/testing/html-validation-index.png"></details>
 <details><summary>Menu</summary><img src="./docs/testing/html-validation-menu.png"></details>
@@ -218,12 +218,12 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>404</summary><img src="./docs/testing/html-validation-404.png"></details>
 
 ### CSS Validation
-[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) is used for CSS validation
+[W3C Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/) is used for CSS validation, no errors was shown
 
 <details><summary>CSS</summary><img src="./docs/testing/css-validation.png"></details>
 
 ### Accessibility
-[WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org/) is used for accessibility testing
+[WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org/) is used for accessibility testing, no errors or contrast errors was shown
 
 <details><summary>Home</summary><img src="./docs/testing/accessibility-home.png"></details>
 <details><summary>Menu</summary><img src="./docs/testing/accessibility-menu.png"></details>
