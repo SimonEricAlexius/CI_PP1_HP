@@ -337,6 +337,22 @@ float: left;
     3. Below Branch there is a dropdown menu, click and choose main
     4. Click on save
 
+- The repository can be forked by doing
+    1. Go to the GitHub repository
+    2. Up in the right corner, click on Fork
+
+- The repository can be cloned by doing
+    1. Go to the GitHub repository
+    2. Above the list of files, click on the Code button
+    3. Choose either HTTPS, SSH or GitHub CLI and copy the URL
+    4. Open Git Bash
+    5. Change the current working directory to the location where you want the cloned directory
+    6. Type git clone, and then paste the URL you copied earlier
+    ```
+    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    ```
+    7. Press Enter to create your local clone.
+
 The live link https://simonericalexius.github.io/CI_PP1_HP/
 
 ## Credits
