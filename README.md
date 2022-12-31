@@ -221,6 +221,7 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>About</summary><img src="./docs/testing/html-validation-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/testing/html-validation-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/testing/html-validation-contact.png"></details>
+<details><summary>Thanks</summary><img src="./docs/testing/html-validation-thanks.png"></details>
 <details><summary>404</summary><img src="./docs/testing/html-validation-404.png"></details>
 
 ### CSS Validation
@@ -236,6 +237,7 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>About</summary><img src="./docs/testing/accessibility-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/testing/accessibility-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/testing/accessibility-contact.png"></details>
+<details><summary>Thanks</summary><img src="./docs/testing/accessibility-thanks.png"></details>
 <details><summary>404</summary><img src="./docs/testing/accessibility-404.png"></details>
 
 ### Performance
@@ -246,6 +248,7 @@ The website was made to easy navigate around the five pages of the website with 
 <details><summary>About</summary><img src="./docs/testing/performance-about.png"></details>
 <details><summary>Gallery</summary><img src="./docs/testing/performance-gallery.png"></details>
 <details><summary>Contact</summary><img src="./docs/testing/performance-contact.png"></details>
+<details><summary>Thanks</summary><img src="./docs/testing/performance-thanks.png"></details>
 <details><summary>404</summary><img src="./docs/testing/performance-404.png"></details>
 
 ### Device Testing
