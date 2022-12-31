@@ -318,6 +318,9 @@ The website has been tested in these browser
  <details><summary>Screenshot</summary><img src="./docs/bug.png"></details>
 
 ### Fixed bug
+- Made the hamburger images 30px bigger width and height as original size
+- Made the right and left padding 20px bigger as original size
+- In media queries for small screens 620px wide and down switched float to left from right on image and text
 [Commit](https://github.com/SimonEricAlexius/Project-Portfolio-1.1/commit/e1cd9da7da3c7949d5693d90906d5024baf8da28)
 ```
 width: 280px;
