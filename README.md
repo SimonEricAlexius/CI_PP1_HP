@@ -191,6 +191,12 @@ The website was made to easy navigate around the five pages of the website with 
 
 ![contact-form](./docs/features/contact-form.png)
 
+### Thanks After Contact
+- A thank you message is shown after the contact form is filled out and sent
+- Return to home button is available to easily navigate back
+
+![thank-you](./docs/features/thank-you.png)
+
 ### Adress and Phone Number
 - Just below the contact form on the contact page, the adress for the restaurant can be found
 - A phone number to the restaurant is listed under the adress
