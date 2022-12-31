@@ -272,55 +272,55 @@ The website has been tested in these browser
 
 ### Testing User Stories
 #### First Time Users
-- What time is the restaurant open
+1. What time is the restaurant open
     1. Go to home page
     2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-opened.png"></details>
 
-- Where is the restaurant located
+2. Where is the restaurant located
     1. Go to contact
     2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-location.png"></details>
 
-- What is on the menu
+3. What is on the menu
     1. Go to menu
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-menu.png"></details>
 
-- What do other people say about the restaurant
+4. What do other people say about the restaurant
     1. Go to home page
     2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-customer-reviews.png"></details>
 
 #### Returning Users
-- How to contact the restaurant with feedback
+5. How to contact the restaurant with feedback
     1. Go to contact
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-contact-form.png"></details>
 
-- What is the restaurants history and future goals
+6. What is the restaurants history and future goals
     1. Go to about
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-about.png"></details>
 
-- Can I find the restaurant on social media
+7. Can I find the restaurant on social media
     1. Go to any of the navigation pages
     2. Scroll down to bottom
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-socials.png"></details>
 
 #### Site Owner
-- Customers to be able to find when the restaurant is open
+8. Customers to be able to find when the restaurant is open
     1. Go to home page
     2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-opened.png"></details>
 
-- Customers to be able to find the location of the restaurant
+9. Customers to be able to find the location of the restaurant
     1. Go to contact
     2. Scroll down
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-location.png"></details>
 
-- Customers to be able to know what's on the menu
+10. Customers to be able to know what's on the menu
     1. Go to menu
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-menu.png"></details>
 
-- Customers to be able to contact the restaurant
+11. Customers to be able to contact the restaurant
     1. Go to contact
 <details><summary>Screenshot</summary><img src="./docs/testing/user-stories-contact-form.png"></details>
 
